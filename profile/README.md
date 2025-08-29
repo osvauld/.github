@@ -1,5 +1,5 @@
 <br/>
-<a href="https://osvauld.com/"><img src="https://raw.githubusercontent.com/osvauld/Docs/master/assets/org.png" width="100%" alt="osvauld - An open-source, on-prem shared credential manager"></a>
+<a href="https://osvauld.com/"><img src="https://osvauld.com/assets/images/osvauldthumb.png" width="100%" alt="osvauld - An open-source, peer-to-peer applications suite"></a>
 
 <h3 align="center">
   <a href="https://docs.osvauld.com/">Docs</a>
